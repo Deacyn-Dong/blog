@@ -1,13 +1,9 @@
 
 ### 说明
 
-:+1:代表我推荐阅读这本书,
+:+1:代表推荐
 
-:-1:代表我不推荐阅读这本书,
-
-:question:代表我没读完这本书,
-
-:exclamation:代表我目前正在阅读此书
+:-1:代表差评
 
 书籍先后不代表排名
 
@@ -17,11 +13,11 @@
 
 [JavaScript语言精粹(修订版)][1]
 
-:question::+1:[JavaScript高级程序设计（第3版）][2]
+:+1:[JavaScript高级程序设计（第3版）][2]
 
-:question:[JavaScript权威指南(第6版)][3]
+[JavaScript权威指南(第6版)][3]
 
-:exclamation:[基于MVC的JavaScript Web富应用开发][4]
+[基于MVC的JavaScript Web富应用开发][4]
 
 :+1:[JavaScript DOM编程艺术 （第2版）][5]
 
@@ -29,27 +25,27 @@
 
 :+1:[你不知道的JavaScript（上卷）][7]
 
-:exclamation:[JavaScript异步编程][8]
+[JavaScript异步编程][8]
 
 [JavaScript设计模式与开发实践][9]
 
 :+1:[JavaScript面向对象编程指南][10]
 
-:question:[数据结构与算法JavaScript描述][11]
+[数据结构与算法JavaScript描述][11]
 
-:exclamation:[JavaScript启示录][12]
+[JavaScript启示录][12]
 
 :+1:[JavaScript面向对象精要][13]
 
 :-1:[JavaScript忍者秘籍][14]
 
-:question:[前端函数式攻城指南][24]
+[前端函数式攻城指南][24]
 
 #### HTML和CSS
 
-:question:[图解CSS3：核心技术与案例实战][15]
+[图解CSS3：核心技术与案例实战][15]
 
-:question:[精通CSS(第2版)-高级Web标准解决方案][25]
+[精通CSS(第2版)-高级Web标准解决方案][25]
 
 #### PHP
 
@@ -59,15 +55,13 @@
 
 #### Python
 
-:question::-1:["笨办法"学Python][17]
+:-1:["笨办法"学Python][17]
 
 :+1:[Python网络数据采集][18]
 
-:question:[Python基础教程(第二版)][19]
+[Python基础教程(第二版)][19]
 
 #### 数据库
-
-:question:[MySQL必知必会][20]
 
 [MongoDB权威指南][21]
 
@@ -75,7 +69,7 @@
 
 :+1:[JSON必知必会][22]
 
-:exclamation:[计算机英语(第四版)][23]
+[计算机英语(第四版)][23]
 
 ### 文学类
 
@@ -108,7 +102,7 @@
 [17]:https://book.douban.com/subject/26264642/
 [18]:https://book.douban.com/subject/26740503/
 [19]:https://book.douban.com/subject/4866934/
-[20]:https://book.douban.com/subject/3354490/
+
 [21]:https://book.douban.com/subject/6068947/
 [22]:https://book.douban.com/subject/26789960/
 [23]:https://book.douban.com/subject/24533635/
