@@ -86,9 +86,10 @@ yum -y install httpd
 
 <pre>nano /var/www/html/index.php</pre>
     
-
 输入：
-<pre> <?php phpinfo(); ?> </pre>
+
+<pre lang="php"> <?php phpinfo(); ?> </pre>
+
 在浏览器输入ip地址或域名，显示php版本信息等，证明php服务正常
 
 4.安装wordpress：
